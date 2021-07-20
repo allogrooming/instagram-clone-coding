@@ -7,6 +7,7 @@
     <title>Title</title>
 
     <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/style.css">
 
 </head>
 <body>
@@ -15,13 +16,93 @@
             <section class="inner">
                 <h1 class="logo">
                     <a href="index.html">
-                        <div class="sprite_insta_icon"></div>
+                        <div class="sprite_insta_logo"></div>
                         <div class="sprite_insta_write_logo"></div>
-                        씨바
                     </a>
                 </h1>
+
+                <div class="search_box">
+                    <input type="text" placeholder="search" id="search-field">
+                    <div class="fake_field">
+                        <span class="sprite_small_search"></span>
+                        <span>Search</span>
+                    </div>
+                </div>
+
+                <div class="right_icons">
+                    <div class="sprite_camera"></div>
+                    <div class="sprite_compass"></div>
+                    <div class="sprite_heart"></div>
+                    <div class="sprite_human"></div>
+                </div>
             </section>
         </header>
+
+        <section id="main_container">
+            <div class="inner">
+                <div class="contents_box">
+                    <article class="contents">
+                        <header class="top">
+                            <div class="user_container">
+                                <div class="profile_img">
+                                    <img src="imgs/thumb.jpg" alt="profile">
+                                </div>
+                                <div class="user_name">
+                                    <div class="nick_name"><p class="m_text">Kim</p></div>
+                                    <div class="country"><p class="s_text">Seoul, South Korea</p></div>
+                                </div>
+                            </div>
+                            <div class="sprite_more_icon" data-name="more"></div>
+                        </header>
+
+                        <div class="img_section">
+                            <div class="trans_inner">
+                                <div>
+                                    <img src="imgs/content1.jpg" alt="visual_1">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="bottom_icons">
+                            <div class="left_icons">
+                                <div class="heart_btn">
+                                    <div class="sprite_heart_icon_outline" name="39" a-name="heartbeat"></div>
+                                    <div class="sprite_bubble_icon" data-name="share"></div>
+                                    <div class="sprite_share_icon" data-name="share"></div>
+                                </div>
+                            </div>
+
+                            <div class="right_icon">
+                                <div class="sprite_bookmark_outline" data-name="bookmark"></div>
+                            </div>
+                        </div>
+
+                        <div class="likes m_text">
+                            <span id="count">2,021</span>
+                            likes
+                        </div>
+
+                        <div class="comment_container">
+                            <div class="comment">
+                                <div class="nick_name m_text">kms_1997</div>
+                                <div>고양이 너무 예쁘다</div>
+                            </div>
+                            <div class="small_heart">
+                                <div class="sprite_small_heart_icon_outline"></div>
+                            </div>
+                        </div>
+
+                        <div class="timer">1 DAY AGO</div>
+                        
+                        <div class="comment_field">
+                            <input type="text" placeholder="add comment">
+                            <div class="upload_btn m_text">add</div>
+                        </div>
+                    
+                    </article>
+                </div>
+            </div>
+        </section>
     </section>
 </body>
 </html>
