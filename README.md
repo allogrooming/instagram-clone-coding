@@ -10,4 +10,4 @@ Aug 06
 반응형 웹 시작은 meta태그 설정!!
 name="viewpoint"를 설정하지 않으면 형태를 유지하며 크기가 변함!
 
-contents 부분은 js로 하는게 편함
+contents 부분은 js로 하는게 편함 
