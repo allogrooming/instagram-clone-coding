@@ -19,3 +19,5 @@ const 고정 값
 ## Sep 08
 JS 1
 
+## Sep 16
+JS 다시
