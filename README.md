@@ -27,4 +27,6 @@ JS 끝
 
 ## Nov 03
 노트북 수리 완
-https://velog.io/@kiiim/local-cors-%EC%97%90%EB%9F%AC-%EB%B9%84%EC%A3%BC%EC%96%BC%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%EC%BD%94%EB%93%9C
+https://velog.io/@kiiim/local-cors-%EC%97%90%EB%9F%AC-%EB%B9%84%EC%A3%BC%EC%96%BC%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%EC%BD%94%EB%93%9C  
+
+에휴
